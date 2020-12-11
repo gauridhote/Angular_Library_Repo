@@ -11,7 +11,7 @@ import { DataService } from '../_services/data.service';
 @Component({
   selector: 'app-update',
   templateUrl: './update.component.html',
-  styleUrls: ['./update.component.scss']
+  styleUrls: ['./update.component.css']
 })
 export class UpdateComponent implements OnInit {
 
